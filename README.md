@@ -3,6 +3,7 @@ A selection of data projects I've worked on throughout the years, including a de
 
 ## Excel Projects:
 **Game Adoption Analysis**: Applied probability models in Excel to predict customer acquisition over time using Steam data
+
 **Poisson on the Pitch**: Employed the Poisson probability distribution to predict historical EPL soccer match results in Excel 
 
 ## Python Projects
@@ -10,6 +11,7 @@ A selection of data projects I've worked on throughout the years, including a de
 
 ## R Projects:
 **Coral Reef**: Detailed policy suggestions for coral reef bleaching based on CART, Random Forests, SVM methods in R 
+
 **Salary**: Modeled potential salary discrepancies in R based on gender or career using Regression, GAM, and Boosting methods
 
 ## Java Projects:

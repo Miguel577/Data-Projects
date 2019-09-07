@@ -28,4 +28,7 @@ A selection of data projects I've worked on throughout the years, including a de
 
 **Hexpress**: Lightweight express backend clone including signal requests, server rendering, and data pipeline compatibility
 
+
+
+
 Thanks for reading! Please reach out to me at dearmasm@wharton.upenn.edu for more information on the projects.
